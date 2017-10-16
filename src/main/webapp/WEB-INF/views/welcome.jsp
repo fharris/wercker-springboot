@@ -36,7 +36,7 @@
 
       <div class="blueBannerHeading">
         <h1 class="blueBannerTitleWithSubtitle">
-          <a style="color: #ffffff"> EDP - Oracle Container Cloud Service + Wercker DEMO + Docker Reg + GitHub</a>
+          <a style="color: #ffffff"> OCCS + Wercker DEMO + Docker Reg + GitHub</a>
         </h1>
       </div>
 

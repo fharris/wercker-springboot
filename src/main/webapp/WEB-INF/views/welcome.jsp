@@ -36,7 +36,7 @@
 
       <div class="blueBannerHeading">
         <h1 class="blueBannerTitleWithSubtitle">
-          <a style="color: #ffffff"> OCCS + Wercker DEMO + Docker Reg + GitHub</a>
+          <a style="color: #ffffff"> OCCS + Demo Wercker + Docker Reg + GitHub</a>
         </h1>
       </div>
 
